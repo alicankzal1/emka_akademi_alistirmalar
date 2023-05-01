@@ -1,1 +1,1 @@
-# emka_akademi_alistirmalar
+# EmKa-Akademi-NumPy
